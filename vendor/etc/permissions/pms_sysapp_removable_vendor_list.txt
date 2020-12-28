@@ -1,0 +1,3 @@
+com.mediatek.vnet
+com.hugeland.cdsplus
+com.longsys.testdram
