@@ -1,0 +1,13 @@
+# full_k63v2_64_bsp-user 9 PPR1.180610.011 1583405687 release-keys
+- manufacturer: gigaset
+- platform: mt6763
+- codename: GS290
+- flavor: full_k63v2_64_bsp-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: 1583405687
+- tags: release-keys
+- fingerprint: Gigaset/GS290_EEA/GS290:9/PPR1.180610.011/1583405687:user/release-keys
+- brand: Gigaset
+- branch: full_k63v2_64_bsp-user-9-PPR1.180610.011-1583405687-release-keys
+- repo: gigaset_gs290_dump
