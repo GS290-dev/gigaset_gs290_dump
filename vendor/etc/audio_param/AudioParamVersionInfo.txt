@@ -1,0 +1,4 @@
+chip:
+product:K6302(Project)+AW8736
+
+version:V3-2020-0618
